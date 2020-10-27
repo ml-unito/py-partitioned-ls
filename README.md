@@ -5,7 +5,7 @@ Python implementation of  algorithms for solving the Partitioned Least Squares p
 `$ pip install git+https://github.com/ml-unito/py-partitioned-ls.git`
 
 # Documentation
-Complete documentation of library can be found on [this paper](https://omarbillotti.github.io/py-partitioned-ls/).
+Complete documentation of library can be found on [this paper](https://ml-unito.github.io/py-partitioned-ls/index.html).
     
 # To learn more
 Theoretical details about PartitionedLS can be found on [this paper](https://arxiv.org/abs/2006.16202).
